@@ -18,6 +18,7 @@
   * [Preloaders](https://icons8.com/preloaders/) (加载图，**有些是收费的**)
   * [desktoppr](https://www.desktoppr.co/wallpapers) （好看的壁纸）
   * [Material icons](https://material.io/tools/icons/?style=baseline) (Material icons图标)
+  * [icons8](https://icons8.cn/)
 
  ## 代码类⌨️
   
